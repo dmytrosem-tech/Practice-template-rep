@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "lol1", "author": "typicode", "screams": ["horray", "no", "yea", "si"] },
+    { "id": 2, "title": "lol2", "author": "DImon", "screams": ["loool", "yea", "wtf"] },
+    { "id": 3, "title": "lol3", "author": "Dimas", "screams": ["whaat", "si", "lol", "bla-bla"] },
+    { "id": 4, "title": "lol4", "author": "Mitia", "screams": ["tired"] }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
